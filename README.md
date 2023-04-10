@@ -1,5 +1,7 @@
-# Graduation-Project
-Signature Forgery Detection Using CNN
+# Signature Forgery Detection Using CNN
+Graduation Project
+
+Data augmentation, CNN, Vision Transformers
 
 For a project summary on the data augmentation and CNN part, please view the video in the repository.
 
